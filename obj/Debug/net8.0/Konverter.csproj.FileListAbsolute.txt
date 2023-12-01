@@ -1,0 +1,17 @@
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\bin\Debug\net8.0\Konverter.exe
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\bin\Debug\net8.0\Konverter.deps.json
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\bin\Debug\net8.0\Konverter.runtimeconfig.json
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\bin\Debug\net8.0\Konverter.dll
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\bin\Debug\net8.0\Konverter.pdb
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.csproj.AssemblyReference.cache
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.AssemblyInfoInputs.cache
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.AssemblyInfo.cs
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.csproj.CoreCompileInputs.cache
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.csproj.CopyComplete
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.dll
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\refint\Konverter.dll
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.pdb
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\Konverter.genruntimeconfig.cache
+C:\Users\ULNV_Developer\source\repos\Konverter\Konverter\obj\Debug\net8.0\ref\Konverter.dll
